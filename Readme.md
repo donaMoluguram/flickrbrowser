@@ -3,7 +3,7 @@
     -   Change app location to where exactly app is downloaded
     
              *   Above 2 properties can be found @ src/test/resources/config.properties,
-                 To change device please refer "SAMPLE DEVICES" below
+                 To change device please refer "SAMPLE DEVICES" in readme file below
 
 # HOW TO RUN
 
@@ -53,6 +53,8 @@
 
 # Can improve 
 
-    Want to start and stop programmatically
+    Want to start and stop appium server programmatically
+
+    Take screen shot on test failure
      
     
