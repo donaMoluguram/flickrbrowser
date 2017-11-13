@@ -1,4 +1,4 @@
 .idea/
 target/
 flickrbrowser.iml
-
+.DS_Store
